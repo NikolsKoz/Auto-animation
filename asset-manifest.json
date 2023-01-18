@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Auto-animation/static/css/main.5f39a616.css",
+    "main.js": "/Auto-animation/static/js/main.d5d6f2f3.js",
+    "static/media/hill_03.png": "/Auto-animation/static/media/hill_03.eefb86534d80e90d378f.png",
+    "static/media/horizont_03.png": "/Auto-animation/static/media/horizont_03.bef1b98d01c596f6c17a.png",
+    "static/media/sky_03.png": "/Auto-animation/static/media/sky_03.aa60064b4e6b1d862562.png",
+    "static/media/grass_03.png": "/Auto-animation/static/media/grass_03.7525851d21d7ae5f9f4c.png",
+    "static/media/trailer_03.png": "/Auto-animation/static/media/trailer_03.3aef33a19cd2a34b4d25.png",
+    "static/media/cloud_03.png": "/Auto-animation/static/media/cloud_03.3e7310b1ec102b0e7cbd.png",
+    "index.html": "/Auto-animation/index.html",
+    "main.5f39a616.css.map": "/Auto-animation/static/css/main.5f39a616.css.map",
+    "main.d5d6f2f3.js.map": "/Auto-animation/static/js/main.d5d6f2f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f39a616.css",
+    "static/js/main.d5d6f2f3.js"
+  ]
+}
